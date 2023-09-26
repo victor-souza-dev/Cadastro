@@ -1,4 +1,0 @@
-io/flutter/plugins/GeneratedPluginRegistrant.java
- io.flutter.plugins.GeneratedPluginRegistrant
-br/com/klowdy/sqlite/BuildConfig.java
- br.com.klowdy.sqlite.BuildConfig
